@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="label_template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="1"
+     inkscape:cx="434.5"
+     inkscape:cy="309"
+     inkscape:window-width="1620"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid31" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.264583"
+       id="big_rect"
+       width="180"
+       height="120"
+       x="0"
+       y="0"
+       rx="10"
+       ry="10" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="serials"
+       width="170"
+       height="60"
+       x="5"
+       y="55"
+       rx="5"
+       ry="5" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="barcode_a_outer"
+       width="77.5"
+       height="20"
+       x="7.5"
+       y="57.5"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="barcode_a_inner"
+       width="72.5"
+       height="15"
+       x="10"
+       y="60"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#808080;stroke-width:0.264583"
+       id="barcode_a"
+       width="67.5"
+       height="10"
+       x="12.5"
+       y="62.5"
+       rx="0"
+       ry="0"
+       template-id="barcode_a" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="barcode_c_outer"
+       width="77.5"
+       height="32.5"
+       x="7.5"
+       y="80"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="barcode_c_inner"
+       width="72.5"
+       height="27.5"
+       x="10"
+       y="82.5"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#808080;stroke-width:0.264583"
+       id="barcode_c"
+       width="67.5"
+       height="22.5"
+       x="12.5"
+       y="85"
+       rx="0"
+       ry="0"
+       template-id="barcode_c" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="barcode_b_outer"
+       width="85"
+       height="20"
+       x="87.5"
+       y="57.5"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="barcode_b_inner"
+       width="80"
+       height="15"
+       x="90"
+       y="60"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#808080;stroke-width:0.264583"
+       id="barcode_b"
+       width="75"
+       height="10"
+       x="92.5"
+       y="62.5"
+       rx="0"
+       ry="0"
+       template-id="barcode_b" />
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="barcode_d_outer"
+       width="85"
+       height="32.5"
+       x="87.5"
+       y="80"
+       rx="2.5"
+       ry="2.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="barcode_d_inner"
+       width="80"
+       height="27.5"
+       x="90"
+       y="82.5"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#808080;stroke-width:0.264583"
+       id="barcode_d"
+       width="75"
+       height="22.5"
+       x="92.5"
+       y="85"
+       rx="0"
+       ry="0"
+       template-id="barcode_d" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="box_tl"
+       width="80"
+       height="45"
+       x="5"
+       y="5"
+       rx="5"
+       ry="5"
+       template-id="box_tl" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="box_tr"
+       width="40"
+       height="45"
+       x="135"
+       y="5"
+       rx="5"
+       ry="5"
+       template-id="box_tr" />
+  </g>
+</svg>
